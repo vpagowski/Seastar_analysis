@@ -1,3 +1,7 @@
+#Load libraries
+library(dplyr) #if not loaded use install.packages
+library(ggplot2)
+
 #Starter script to analyze Patiria swath data
 setwd("/Users/veronicapagowski/Desktop/MARINE_star_data") #or whatever directory you are using 
 
